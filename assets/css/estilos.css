@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+    width: auto;
+}
+
+h1{
+   font-size: 3rem;
+   text-decoration: underline;
+   align-items: center;
+}
+
+p{
+    font-size: xx-large;
+}
+
+#cuenta{
+    margin-bottom: 1.5rem;
+}
+
+#password{
+    margin-bottom: 3rem;
+}
+
+#validar{
+    margin-bottom: 3rem;
+}
